@@ -1,0 +1,9 @@
+#main-container {
+  max-width: 360px !important;
+}
+button {
+  max-width: 65px !important;
+}
+#input {
+  width: 90% !important;
+}
